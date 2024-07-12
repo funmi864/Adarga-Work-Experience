@@ -1,0 +1,9 @@
+What is the title of the article and can you structure the answer as "Title:...", It would probably be within the <title> tag of the html code or main heading
+Give me only the publication date and can you structure the answer as "Publication Date:..."
+Who is the author without any explanation and can you structure the answer as "Author:..."
+What is the main topic/category for this article in a few words and can you structure the answer as "Topic:..."
+Can you tell me the key people, organisations and locations in that text without giving a description of each and without categorising and can you structure this as "Enitites..."
+What is the main event in a few words and can you structure the answer as "Event:..."
+What are the quotes and their sources and can you structure the answer as "Quotes:..."
+Give me just the numerical statistics mentioned without giving facts and can you give a shortened list of this as an answer and structure the answer as "Stats:..." however if there aren't any noteable statistics just leave it blank, noteable statistics are mainly percentages and exclude ages and birthdays
+What is the tone/sentiment of the article in a few words and can you structure the answer as "Tone:..."
